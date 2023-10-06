@@ -15,7 +15,6 @@ import java.util.Optional;
 @RequiredArgsConstructor
 public class PacienteService {
 
-    @Autowired
     private final PacienteRepository repository;
 
 
